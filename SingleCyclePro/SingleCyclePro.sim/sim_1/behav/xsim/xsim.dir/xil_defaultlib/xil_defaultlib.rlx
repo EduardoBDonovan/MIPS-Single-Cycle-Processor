@@ -1,0 +1,17 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+C:/Users/eburgadonovan7961/C475_Assignment1/C475_Assignment1.srcs/sources_1/new/ALU.v,1646796196,verilog,,C:/Users/eburgadonovan7961/SingleCyclePro/SingleCyclePro.srcs/sources_1/new/Adder.v,,ALU,,,,,,,,
+C:/Users/eburgadonovan7961/C475_Assignment1/C475_Assignment1.srcs/sources_1/new/ControlUnit.v,1646798391,verilog,,C:/Users/eburgadonovan7961/C475_Assignment1/C475_Assignment1.srcs/sources_1/new/DataMemory.v,,ControlUnit,,,,,,,,
+C:/Users/eburgadonovan7961/C475_Assignment1/C475_Assignment1.srcs/sources_1/new/DataMemory.v,1646793735,verilog,,C:/Users/eburgadonovan7961/C475_Assignment1/C475_Assignment1.srcs/sources_1/new/InstructionDecoder.v,,DataMemory,,,,,,,,
+C:/Users/eburgadonovan7961/C475_Assignment1/C475_Assignment1.srcs/sources_1/new/InstructionDecoder.v,1646353311,verilog,,C:/Users/eburgadonovan7961/C475_Assignment1/C475_Assignment1.srcs/sources_1/new/InstructionMemory.v,,InstructionDecoder,,,,,,,,
+C:/Users/eburgadonovan7961/C475_Assignment1/C475_Assignment1.srcs/sources_1/new/InstructionMemory.v,1646790137,verilog,,C:/Users/eburgadonovan7961/C475_Assignment3/C475_Assignment3.srcs/sources_1/new/MUX.v,,InstructionMemory,,,,,,,,
+C:/Users/eburgadonovan7961/C475_Assignment1/C475_Assignment1.srcs/sources_1/new/RegisterFile.v,1646796790,verilog,,C:/Users/eburgadonovan7961/C475_Assignment1/C475_Assignment1.srcs/sources_1/new/SignExtend.v,,RegisterFile,,,,,,,,
+C:/Users/eburgadonovan7961/C475_Assignment1/C475_Assignment1.srcs/sources_1/new/SignExtend.v,1646254859,verilog,,C:/Users/eburgadonovan7961/SingleCyclePro/SingleCyclePro.srcs/sources_1/new/TopModule.v,,SignExtend,,,,,,,,
+C:/Users/eburgadonovan7961/C475_Assignment3/C475_Assignment3.srcs/sources_1/new/MUX.v,1646793979,verilog,,C:/Users/eburgadonovan7961/SingleCyclePro/SingleCyclePro.srcs/sources_1/new/Register.v,,MUX,,,,,,,,
+C:/Users/eburgadonovan7961/SingleCyclePro/SingleCyclePro.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+C:/Users/eburgadonovan7961/SingleCyclePro/SingleCyclePro.srcs/sim_1/new/SCTestbench_t.v,1646797418,verilog,,,,SCTestbench_tb,,,,,,,,
+C:/Users/eburgadonovan7961/SingleCyclePro/SingleCyclePro.srcs/sources_1/new/Adder.v,1646789352,verilog,,C:/Users/eburgadonovan7961/C475_Assignment1/C475_Assignment1.srcs/sources_1/new/ControlUnit.v,,Adder,,,,,,,,
+C:/Users/eburgadonovan7961/SingleCyclePro/SingleCyclePro.srcs/sources_1/new/Register.v,1646789518,verilog,,C:/Users/eburgadonovan7961/C475_Assignment1/C475_Assignment1.srcs/sources_1/new/RegisterFile.v,,Register,,,,,,,,
+C:/Users/eburgadonovan7961/SingleCyclePro/SingleCyclePro.srcs/sources_1/new/TopModule.v,1646800371,verilog,,C:/Users/eburgadonovan7961/SingleCyclePro/SingleCyclePro.srcs/sim_1/new/SCTestbench_t.v,,TopModule,,,,,,,,

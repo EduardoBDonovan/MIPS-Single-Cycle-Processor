@@ -1,0 +1,20 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../C475_Assignment1/C475_Assignment1.srcs/sources_1/new/ALU.v" \
+"../../../../SingleCyclePro.srcs/sources_1/new/Adder.v" \
+"../../../../../C475_Assignment1/C475_Assignment1.srcs/sources_1/new/ControlUnit.v" \
+"../../../../../C475_Assignment1/C475_Assignment1.srcs/sources_1/new/DataMemory.v" \
+"../../../../../C475_Assignment1/C475_Assignment1.srcs/sources_1/new/InstructionDecoder.v" \
+"../../../../../C475_Assignment1/C475_Assignment1.srcs/sources_1/new/InstructionMemory.v" \
+"../../../../../C475_Assignment3/C475_Assignment3.srcs/sources_1/new/MUX.v" \
+"../../../../SingleCyclePro.srcs/sources_1/new/Register.v" \
+"../../../../../C475_Assignment1/C475_Assignment1.srcs/sources_1/new/RegisterFile.v" \
+"../../../../../C475_Assignment1/C475_Assignment1.srcs/sources_1/new/SignExtend.v" \
+"../../../../SingleCyclePro.srcs/sources_1/new/TopModule.v" \
+"../../../../SingleCyclePro.srcs/sim_1/new/SCTestbench_t.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
